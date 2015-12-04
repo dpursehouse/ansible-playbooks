@@ -1,0 +1,3 @@
+[submodule "roles/dpursehouse.buck"]
+	path = roles/dpursehouse.buck
+	url = ../ansible-role-buck
