@@ -1,0 +1,8 @@
+- hosts: all
+  connection: local
+  sudo: yes
+  vars:
+    - jenkins_url_prefix: '/jenkins'
+  roles:
+    - { role: geerlingguy.jenkins }
+

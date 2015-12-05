@@ -1,3 +1,9 @@
 [submodule "roles/dpursehouse.buck"]
 	path = roles/dpursehouse.buck
 	url = ../ansible-role-buck
+[submodule "roles/geerlingguy.jenkins"]
+	path = roles/geerlingguy.jenkins
+	url = ../ansible-role-jenkins
+[submodule "roles/geerlingguy.java"]
+	path = roles/geerlingguy.java
+	url = https://github.com/geerlingguy/ansible-role-java
