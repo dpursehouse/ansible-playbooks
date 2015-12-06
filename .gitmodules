@@ -7,3 +7,6 @@
 [submodule "roles/geerlingguy.java"]
 	path = roles/geerlingguy.java
 	url = https://github.com/geerlingguy/ansible-role-java
+[submodule "roles/dpursehouse.watchman"]
+	path = roles/dpursehouse.watchman
+	url = ../ansible-role-watchman
