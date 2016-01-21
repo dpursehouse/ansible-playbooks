@@ -1,6 +1,6 @@
 - hosts: all
   connection: local
-  sudo: yes
+  become: yes
   vars:
     - jenkins_url_prefix: '/jenkins'
   roles:
